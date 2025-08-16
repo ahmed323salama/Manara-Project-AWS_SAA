@@ -1,4 +1,4 @@
-# Manara-AWS-Project  
+# Manara-Project-AWS_SAA 
 ## Scalable Web Application with ALB and Auto Scaling (Manara AWS Graduation Project)
 
 ---
